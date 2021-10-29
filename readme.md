@@ -1,3 +1,4 @@
+Authors : [Nikhil Alapati](https://github.com/NikhilAlapati), [Mohamed Alturfi](https://github.com/altaiiiir), [William Simcox](https://github.com/WSSimcox), Andy Tran
 This is a disassembler for the Motorolla 68K CPU Assembly
 
 To run this please install [EASY 68K software](http://www.easy68k.com/) and follow the steps
