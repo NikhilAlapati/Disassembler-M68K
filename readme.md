@@ -1,4 +1,4 @@
-Authors : [Nikhil Alapati](https://github.com/NikhilAlapati), [Mohamed Alturfi](https://github.com/altaiiiir), [William Simcox](https://github.com/WSSimcox), and Andy Tran
+Authors : [Nikhil Alapati](https://github.com/NikhilAlapati), [Mohamed Alturfi](https://github.com/altaiiiir), [William Simcox](https://github.com/WSSimcox), and [Andy Tran](https://github.com/atran-7147)
 
 This is a disassembler for the Motorolla 68K CPU Assembly
 
